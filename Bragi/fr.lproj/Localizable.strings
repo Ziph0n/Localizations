@@ -7,7 +7,7 @@
 
 "ART_OVERLAY_THEME" = "Thème de la pochette";
 
-"CHANGE_REQUIRES_RESPRING" = "Toggling this option will require a respring";
+"CHANGE_REQUIRES_RESPRING" = "Changer cette option nécessitera un respring";
 
 "COLORIZE_CONTROL_CENTER" = "Coloriser le centre de contrôle";
 
@@ -15,9 +15,9 @@
 
 "CONFIGURATION" = "Configuration";
 
-"DEFAULT_MUSIC_PLAYER" = "Default Music Player";
+"DEFAULT_MUSIC_PLAYER" = "Lecteur de musique par défaut";
 
-"DEFAULT_MUSIC_PLAYER_FOOTER" = "When no music is playing the blank album art image will open this app when tapped";
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "Quand aucune musique n’est jouée, taper sur l'album aura pour effet de lancer cette application";
 
 "ENABLE" = "Activer";
 
@@ -37,8 +37,8 @@
 
 "USE_CUSTOM_COVER_OVERLAY" = "Utiliser un revêtement personnalisé pour la pochette d'album";
 
-"USE_BLURREDVIEW_IN_CC" = "Use Reachability Style In CC";
+"USE_BLURREDVIEW_IN_CC" = "Utiliser le style 'Reachability' dans le centre de contrôle";
 
 "USE_VIBRANCY_LABELS" = "Utiliser des étiquettes dynamiques";
 
-"VIBRANCY_LABELS_FOOTER" = "Vibrancy labels only affect the reachability style view. You must enable reachability view in CC if you want to use them there";
+"VIBRANCY_LABELS_FOOTER" = "Les étiquettes dynamiques aurons seulement effet dans les vues du style 'Reachability'. Vous devez activer la vue 'Reachability' dans le centre de contrôle si vous voulez les utiliser ici.";
